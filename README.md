@@ -27,10 +27,10 @@ CSV-Daten
 - Erstellung von SQL-Views für Reporting und Analyse
 - Interaktives Dashboard in Power BI
 - Analyse wichtiger KPIs:
+  - Anzahl der Bestellungen 
   - Umsatz
   - Gewinn
   - Marge
-  - Anzahl der Bestellungen
   - Durchschnittliche Bewertung
 
 ## Skills Demonstrated
