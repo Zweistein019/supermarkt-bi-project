@@ -1,4 +1,4 @@
-# supermarkt-bi-project
+# Supermarkt-bi-project
 
 ## Projektbeschreibung
 
