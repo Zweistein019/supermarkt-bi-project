@@ -21,9 +21,9 @@ CSV-Daten → Datenbereinigung mit Python → Speicherung in MySQL → SQL-Views
 
 ## KPI
 
-Umsatz
-Gewinn
-Marge
-Bestellungen
+- Umsatz
+- Gewinn
+- Marge
+- Bestellungen
 
 
