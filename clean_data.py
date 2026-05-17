@@ -13,7 +13,7 @@ print(df.duplicated().sum())
 print(df.info())
 
 engine = create_engine(
-    "mysql+pymysql://root:(passwort)@localhost:3306/testdb?charset=utf8mb4"
+    "mysql+pymysql://root:YOUR_PASSWORD@localhost:3306/testdb?charset=utf8mb4"
 )
 df.to_sql(
     name="supermarkt_sales",
