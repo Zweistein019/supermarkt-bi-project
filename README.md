@@ -33,6 +33,13 @@ CSV-Daten
   - Anzahl der Bestellungen
   - Durchschnittliche Bewertung
 
+## Skills Demonstrated
+- Data Cleaning
+- ETL Workflow
+- SQL Views
+- KPI Analysis
+- Power BI Dashboarding
+- 
 ## Dashboard Screenshot
 <img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/06874d5d-e997-430d-8bad-29232c3c96e4" />
 
