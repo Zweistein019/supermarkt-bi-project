@@ -20,7 +20,7 @@ CSV-Daten
 → Power-BI-Dashboard
 
 
-## Key Features
+## Zentrale Funktionen
 
 - Datenbereinigung mit Python und Pandas
 - Speicherung der Daten in MySQL
@@ -33,14 +33,14 @@ CSV-Daten
   - Marge
   - Durchschnittliche Bewertung
 
-## Skills Demonstrated
+## Nachgewiesene Fähigkeiten
 - Data Cleaning
 - ETL Workflow
 - SQL Views
 - KPI Analysis
 - Power BI Dashboarding
   
-## Dashboard Screenshot
+## Dashboard-Screenshot
 <img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/06874d5d-e997-430d-8bad-29232c3c96e4" />
 
 ## Datenquelle
