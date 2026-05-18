@@ -43,5 +43,11 @@ CSV-Daten
 ## Dashboard Screenshot
 <img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/06874d5d-e997-430d-8bad-29232c3c96e4" />
 
+## Datenquelle
 
+Für dieses BI-Projekt wurde ein öffentlich verfügbarer Supermarkt-Datensatz von Kaggle verwendet:
+
+https://www.kaggle.com/datasets/alexhuitron/supermarket-sales/data
+
+Die Daten dienten der Durchführung von Datenbereinigung, SQL-Analysen und der Erstellung interaktiver Power-BI-Dashboards.
 
